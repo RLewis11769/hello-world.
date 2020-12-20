@@ -4,4 +4,14 @@
 You know, I did this once before but made it private. Let's try again.
 <br>
 <br>
-Rachel here! My favorite animal is a platypus but I say it's a wolf because I'm super cool.
+Rachel here! My favorite animal is a platypus. I have a cat.
+
+int main()
+{
+  int i;
+  for (i = 0; i < 33; i++)
+  {
+    printf("School\n", i);
+  }
+  return 0;
+}
